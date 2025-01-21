@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plant Disease Detection using CNN
 
 ### 🍀Description:
@@ -31,3 +32,7 @@ To get started with this project, follow these steps:
 
 
 
+=======
+# plant-disease-detection-cnn-
+python, jupyter, kaggle api, vscode/pycharm
+>>>>>>> 1bbaf1f1870351747e407f5941d744645b247c28
